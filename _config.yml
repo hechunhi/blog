@@ -14,7 +14,7 @@ github_repo: "blog" #你的仓库名
 
 # OPTIONAL: override baseurl and url if using a custom domain 可选项，如果你有自己的域名，并且需要绑定到该网站
 # Note: leave out the trailing / from this value.  写下域名，不要在最后加斜杠/ 
-url: "http://b.innn.in" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blog.innn.in" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
