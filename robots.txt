@@ -1,1 +1,1 @@
-Sitemap: http://blog.innn.in/blog/sitemap.xml
+Sitemap: http://b.innn.in/blog/sitemap.xml
