@@ -34,7 +34,7 @@ url: "http://b.innn.in" # the base hostname & protocol for your site, e.g. http:
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/blog" # the subpath of your site, e.g. "/blog".网站子路径，一般是仓库名或留空或子目录
+baseurl: "" # the subpath of your site, e.g. "/blog".网站子路径，一般是仓库名或留空或子目录
 
 # Github and twitter are optional:可以在网页底部显示自己的推特和github链接
 minima:
